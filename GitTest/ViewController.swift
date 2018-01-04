@@ -11,8 +11,6 @@ import UIKit
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
-        print("Hello Urip!")
-        print("hello world!")
         super.viewDidLoad()
     }
 
